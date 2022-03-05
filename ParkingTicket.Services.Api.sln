@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingTicket.Services.Api", "ParkingTicket.Services.Api.csproj", "{5A4AB240-E633-43EE-AE6F-B3219AE8104C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A4AB240-E633-43EE-AE6F-B3219AE8104C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4AB240-E633-43EE-AE6F-B3219AE8104C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4AB240-E633-43EE-AE6F-B3219AE8104C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4AB240-E633-43EE-AE6F-B3219AE8104C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3AC0039-2220-422E-9A94-9FC4BDFFA395}
+	EndGlobalSection
+EndGlobal
