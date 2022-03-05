@@ -1,8 +1,15 @@
+using ParkingTicket.Services.Core;
+using ParkingTicket.Services.Core.Interface;
+using ParkingTicket.Services.Core.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddScoped<IparkingRule, ParkingRuleRepository>();
+builder.Services.AddScoped<IParkingTicket, ParkingTicketRepository>();
+builder.Services.AddScoped<IParkingTicketMain, ParkingTicketMain>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
