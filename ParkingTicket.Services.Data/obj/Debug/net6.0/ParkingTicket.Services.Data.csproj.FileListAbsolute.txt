@@ -1,0 +1,12 @@
+C:\Users\hp\source\Projects\ParkingTicket.Services.Data\bin\Debug\net6.0\ParkingTicket.Services.Data.deps.json
+C:\Users\hp\source\Projects\ParkingTicket.Services.Data\bin\Debug\net6.0\ParkingTicket.Services.Data.dll
+C:\Users\hp\source\Projects\ParkingTicket.Services.Data\bin\Debug\net6.0\ref\ParkingTicket.Services.Data.dll
+C:\Users\hp\source\Projects\ParkingTicket.Services.Data\bin\Debug\net6.0\ParkingTicket.Services.Data.pdb
+C:\Users\hp\source\Projects\ParkingTicket.Services.Data\obj\Debug\net6.0\ParkingTicket.Services.Data.csproj.AssemblyReference.cache
+C:\Users\hp\source\Projects\ParkingTicket.Services.Data\obj\Debug\net6.0\ParkingTicket.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\Projects\ParkingTicket.Services.Data\obj\Debug\net6.0\ParkingTicket.Services.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\Projects\ParkingTicket.Services.Data\obj\Debug\net6.0\ParkingTicket.Services.Data.AssemblyInfo.cs
+C:\Users\hp\source\Projects\ParkingTicket.Services.Data\obj\Debug\net6.0\ParkingTicket.Services.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\Projects\ParkingTicket.Services.Data\obj\Debug\net6.0\ParkingTicket.Services.Data.dll
+C:\Users\hp\source\Projects\ParkingTicket.Services.Data\obj\Debug\net6.0\ref\ParkingTicket.Services.Data.dll
+C:\Users\hp\source\Projects\ParkingTicket.Services.Data\obj\Debug\net6.0\ParkingTicket.Services.Data.pdb
